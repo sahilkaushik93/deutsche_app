@@ -1,0 +1,20 @@
+pandas>=2.2.0
+openpyxl>=3.1.2
+python-pptx>=1.0.2
+Pillow>=11.0.0
+streamlit>=1.45.0
+
+# Image Processing
+opencv-python>=4.11.0
+
+# Video Generation
+moviepy>=2.1.2
+imageio>=2.37.0
+imageio-ffmpeg>=0.6.0
+
+# Utilities
+numpy>=2.2.0
+tqdm>=4.67.0
+
+# Optional AI Features
+requests>=2.32.0

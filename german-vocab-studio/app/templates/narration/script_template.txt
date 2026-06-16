@@ -1,0 +1,10 @@
+Word: {word}
+
+Meaning:
+{meaning}
+
+Synonyms:
+{synonyms}
+
+Sentence:
+{sentence}
